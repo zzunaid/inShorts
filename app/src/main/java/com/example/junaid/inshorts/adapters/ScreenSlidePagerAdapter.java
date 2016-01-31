@@ -13,7 +13,7 @@ import com.example.junaid.inshorts.SlidingFragment;
  */
 public class ScreenSlidePagerAdapter extends FragmentStatePagerAdapter {
 
-    private static final int NUM_PAGES = 2;
+    private static final int NUM_PAGES = 3;
 
     public ScreenSlidePagerAdapter(FragmentManager fm) {
         super(fm);
